@@ -10,10 +10,10 @@ You can use the value table to check if the program is working correctly.
             49.13	        170     17     
              
             49.14	        170     17,00346021        Mild Thinness
-            53.465              170     18,5     
+            53.465              170     18,5            
              
             53. 47	        170     18,5017301         Normal
-            72.25	        170     25     
+            72.25	        170     25            
              
             72.26	        170     25,00346021        Overweight
             86.7	        170     30     
